@@ -1,0 +1,153 @@
+gdzies w miedzyczasie zniknela latwa mozliwosc ustawienia wygaszacza ekranu nie wiem czy ktos zwrocil uwage na to z dystrybucji tzn z debiana ubuntu z xow domyslnie instalowanych
+
+bylo i ni ma
+
+byc moze sprawa miala cos wspolnego z jamie zawinskim ktory jakostam byl chyba kontrowersyjna postacia nie wiem on te pakiety z wygaszaczami ekranu screensaverami jakiby tzn zrodla upd upstream
+
+wrdo wsrod nib nich byly tec tez dosc d glupie wygasacza wygaszacze ale tez calkiem soko spoko wiekszosc jak nie prawie pw wszystkie
+
+
+z nowych rzeczy jakie sie pojawialy s to sie udev u pojawil ale to jakby chyba troche sensu mialo zeby tam sie dalo podlaczac odlaczac jakiestam urzadzenia czy costam
+
+kiedyst kiedys sie modeline ustawialo w konfiguracji xow teraz juz jakby tego nie ma nie wiem czy przez lz lcd t czy tzn nie wiem nawet czy jest ale tam dalo sie rozne ciekawe tryby samy saemmu ustawiac jakby troche
+
+
+z kontrowersji wiadomo systemd sie pojaiwl nieb niby to mialo byc po to zeby chyba dalo sie jednoczesnie wiele przy starcie skryptow odpl odpalac ale jakby no nie brzmi to nie wiadomo jak bardzo 
+
+potrzebnie wymagajaco zachecajaco no byly kontrowersje efekt jak jest taki ze w debianie to jest a ja no ja np nie w kiedys wiedzialem jak te inity wczesniejsze ustawiac konfiguorwac bo to byl a jkaistam standard chyba
+
+a teraz nie wiem ale inna sprawa ze jakby nie mialem jakby musu wymagania tzw potrzeby zeby costam zmieniac ale no nie wiem jak to hula pod spodem 
+
+
+ze sm tzn malo smieszne ale kiedys pam nie bylo tylko jakostam bezo bezposrednio ale pam niby ma jakis sens
+
+ogolnie chyba zamiast x.org jest jakis wayland czy cos nie wiem za badzo ba za bardzo po co to  w pewnym momencie jakby trzy de rendering xow na dziendobry tzn nie wiem czy xow nawet juz byl i to niby no
+
+ogolnie to latency jest wieksze i to jest imho wada  tzn mozna nie chciec s zeby sie tryb graficnzy caly na dziendobry d renderowal ja trzy de czy cos ale 
+
+
+ale to co widze jakby wyswietlanie to jest jakies dziwne bo wyglada jakby sie wyrazy kolejne animowaly powaznie nie wiem kto to zrobil i na jake jakiej zasadzie  tzn te czcionki o to co tu wpisuje to ewidentnie jakby plywaja a potem
+
+sie robia takie bardziej u uuuu      no ogolnie tryb graifczny pod linuxoami sie dla mnie stal zagadka 
+
+
+z fajnych rzeczy to kiedys bylo oss potem alsa potem pus pulseaudio takie sobie ale pipewire chyba calkiem niezle nawet jak ktos ma skomplikowane skomplikowany setup urzadzen dzwiekowych to tam daje rady wszystko poustawiac i nawet chyba dziala
+
+
+ogolnie jak zamykam oczy nic nie widze ale raz na jakis czas widze rzeczy ktore sa zaa zasadniczo jakby niemozliwe troche
+
+tak zwana afantazja imho to jest uszkodzenie po prostu od wiadomo kogo w roznych plikachto to opisywalem
+
+
+gdzies czytalem j j jakiegos ko goscia w siecie ze mu sie to udalo naprawic edibles brzmi to przekonujaco dla mnie i mysle ze to jest wazne ze to jest edibles a nie pare p a nie para czy tam dym
+
+
+z glupich rzeczy waznych mysle ze komputery kal lamp laptopy powinny miec dipswitche na mikrofony kamery wyswietlacz ekran takie radio takie rzeczy w fizyczne tzn nie musza byc dipswitche ale wswi switche i to jest bardzo wazne
+
+i taz i tez raczej mozne byc wazne zeby sie d dalo latwo wymieniac ram dysk baterie takie rzeczy wtedu wtedy chyba n mniej problemow jesd jednak
+
+moze i cpu
+
+
+ogolnie dawno temu to nie bylo tak tego calego dziadowskiego ifrm firmwaru ewidentnie do szpiegowania i do niczego innego bo kiedys ybly pecety i tam najwyzej jakis bios maly nie wiem do startowania ewenetualnie na karcie sieciowej
+
+do bootowania z sieci it tyle i do to ddzial dzialalo przeciez to po co jakies dziadosw dziadostwo szajs od badziw badziewia pseudo intela g intel totalnie totalne dziadostwo
+
+
+w ogole mysle ze lepsze wolniejsze procesory bez jakichs trikow konstrukcyjnych za to moze wiecej rdzeni czy cos niz jakies niewiadomo jak skomplikowane po konstrukcje keszukac keszujaco liczace
+
+
+ogolnie chyba oprogramowanie i kopmputery tym leps lepsze im latwiej perfekcyjna emulowalnosc osiagno osiagnac pod tym ko katem bym rozpatrywal sprawy
+
+czyli i m im mniej jakiejs j dzikiej jakiegos dzikiego niedeterminizmu tym lepiej
+
+
+czyli tez z tego powodu moze byc lepiej zeby b wyswietlanie bylo na dziendobry graficzne robione metodami dwa de  po prostu moze byc w glowie wiecej miejsca m na myslenie dzieki temu
+
+
+a te wszystkie karty trzy de ktore sa nieudokumentowane jakies closed hardware closed source blogb drivery to jest dziadostwo    tzn j to jest jak jakas konsola properitary do gier wp wmontowana w komputer ktora niewiadomo co ro bi i jak nie wiem
+
+
+co tam szkoda nze moze e ze nie ma obslui obslugi sprzetowej wielu kanalow audio mio mixowania c tylko jest software mixing stereo czy cos  tzn  tzn takie cos przychodzi do glowy nie iwem
+
+
+a no i te to ze dwadziescia g dwa tysiace herzow to jest jakis lii limit u czlowieka to jest sciema   moze podobnie z tym dwa piec szesc na kanal r g b moze sensownie byloby zrobic wiecej kto wie
+
+ogolnie moze jakies software defined sound graphics czy cos  troche jak dawno temu byly te rozne tryby mono hercules cga ega vga svga
+
+
+klaiwatura wyspowa no nie wiem starsze mi sie bardziej przypodobaly podobaly odpowie odpowiadaly 
+
+
+mysle ze ompu kompy powinny byc standardowo jakby rugged jak i telefony jakies gumy na krawedziach czy costam   nie wie nie wiem czy plastyk plastik czy metal  moze metal bo mi obudowa ilesta m razy popekala juz niew nie iwem
+
+
+no i wiadomo tower to blad to powinno byc poziome a nie tower bo inaczej ciagle jest strach ze sie pra przewroci to jest nieergoni en nieergonomiczne
+
+
+usbc z tym odwracalnym usb tn niby lepiej ale b mysle ze blad ze powinny byc wtyki wylacznie w jedna strone
+
+
+cotam trackballa bym chcial a nie jakiestam glidepoint albo nie tylko glidepoint chyba nie iwem
+
+byl niedawno na hn link do kolesia z ktory w sz ktory zrobil samemu laptopa skladajac czesci procesor jakis soc jakie jakis panel lcd obudowe sam zrobil s zasilanie i pare innych czesci i spoko fajnie
+
+a kolo byl ze szkoly sredniej wiec smiesnzie bardzo dorzy dobrze mu to wyslzo bardzo duzo osob plusowalo jakies tysiace czy cos na hn
+
+
+aha w kwestii kwestii ssd to ciekawa sprawa bo moze s byc sens jakby tak zaprojektowac os system operacyjny oprogramowanie zeby nie tyle dzialal jak najszybicej czy cos tkai taki desktopowy tylko ale zeby jak najmniej updatow robil
+
+jak najmniej updatow stanu czy to programu czy to danych  i byc moze jakis write only append only lod log operating system czy costam  tez widzialem jakies costam w stym w tym stylu ze kazda obp operacja jaks jakos autentykowana podpisana 
+
+kluczem ze kazde przejscie z kazdego jednego stanu do nastepnego jakby jest autoryzowane zabezpiczone nie wiem jakies takie rzeczy
+
+
+
+wlasnie sie zorientowalem ze jakies dziado logo mikrosoftu na klawiaturze mam co za wygibasy walic bila
+
+
+co by sobie bil pomyslal jakby w jego domu nasprejowal nie wiem co trojkat sierpinskiego wszedzie na kazdym jego komputerze 
+
+
+co mysle o katolach ze s to straszni klamcy i glupki i glupole powaznie na niczym sie nie znaja zupelnie nie to sa bezrolni aktorzy normalnie
+
+
+na niekoa na niekatolach chrzescin chrzescijanach sie nie znam a prawdopodobnie sa bardziej normalni 
+
+
+takze co w praktyce jakby najbardziej popularnym systemem jest linu i  liu linux i nie jest zly chodzi chociaz tam jest duzo w tych popularniejszych jakichstam nalec nalecialosci ktorych moze lepiej jakby nie bylo 
+
+i jakby co to mozna w strone bsd zerknac i zobaczyc czy tam jest jeszcze ok czy dobrze czy tez pozmieniali takze jaes jest jakis alternatywny punkt widzenia zeby nie odleciec za badzo bardzo
+
+
+ogolnie strasznie dziadostwo ze nie ma tzn  ogolnie za bardoz hardware koputerowe poszedl w strone szpiegowania i dotyczy to wszystkich popularnych jakby no telefonow i komputeroww blabbl bla
+
+google sie nie popisalo ale z czego sie spodziwac od kmoio kmiotow ktorzy maja stolowki ze zwierzetami i zjezdzalnie w biurach nich nic dobrego
+
+
+ogolnie mysle ze lepiej dla calego swiata by bylo jakby google nigdy nie powstalo powaznie
+
+
+nic zupelnie nie c nic dobrego nie zrobili wszystko co zrobili to byl jeden wielki bait and switch
+
+
+jest youtube gdzie jest jakies profilowanie i my mi wyswietlaja sja jakies nie poowinem co zeby sie niekomporomitowafc albo i nich i jest poczta ktora jakby jest lekkim przymusem bo i ustawienie poczgy samemu zeby poczta dochodzila to jest wyczyn zdaje sie to juz pois pisalem
+
+a no i mapy googlowe gdzie mi zle adresy numery g domow powpisywali a kiedys bylo dobrze i nie da sie tego wylaczyc
+
+a i przypominam o cenzurze shadow cenzourze ktora google uprawia na komentrarzach nie da sie komentaowac tak naprawde takze googlerzy to jest najbardziej antydemokratyczna instytucja jaka istnieje wszyscy sie tam powinni wstydzic
+
+
+co etam narzekamy dalej przypominamy o niszczeniu jezykow naturalnych metodami statystycznymi poprzez translataor takie rzeczy to tylko matoly oc nie wiem co nie wiedza jak jezyki dzialaja b
+
+
+
+takze jesli to e bedzie do ce czegokolwiek jeszcze potrzebne to moze jeszcze powstana jakies fjane programy systemy operacyjne i sprzet   tj nie wsyzstko musi obslugiwac najnowsza wersje w wu trzy ce przeciez
+
+
+
+w sprawie makietomatow makietomatów llmów to myślę że to może być sensowne o ile będą powstawać programy wraz z formalnymi dowodami poprawności to wtedy okej bo tak to no nie powiem co to jest
+
+
+tak jak tak ja bym chciał wyobraźnię pop  po prostu a nie to co ma m tteraz które mi popsuli a najlepiej to chciałby mzmi zmienić świat wylogować się mb bo mam już dość nic tu po pmnie po mnie od razu na starcie dostałem wpierdol i nic się nie dało zrobić w tej sprawie do tej pory
+
